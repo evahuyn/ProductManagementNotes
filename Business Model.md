@@ -8,7 +8,7 @@ Refer to this [article](https://www.productplan.com/glossary/hook-model/)
 - The Hook Model is a four-phase process to create a customer habit, original by Nir Eyal
 - Goal: voluntary, high-frequency engagement
   - Doing something out of <b>Habit</b> Means doing it without even thinking
-- ![img.png](img.png)
+- ![img.png](pics/img1.png)
 
     - <b>Trigger</b> (External or Internal): This is the actuator of behavior. It cues the action that then builds a habit.
       
