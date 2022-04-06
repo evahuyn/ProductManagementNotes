@@ -1,4 +1,4 @@
-#Product Management
+# Product Management
 
 <details>
 <summary>What is a PM?</summary>
@@ -50,6 +50,20 @@
 - Prioritization 
 
   - Consider all of the new requests and decide if they should be prioritized for the current release or punted to a later time.
+
+### Release
+
+- Running through a launch checklist
+
+    - Final approvals from key stakeholders like Legal or coordination steps with teams like Marketing and Operations
+
+- Making sure team support are prepared
+
+    - E.g., For a web product this might be the customer service team; for a hardware product it could be the manufacturing team; for a service-based product it could be the oeprations team
+
+- Preparing for all the things that could go wrong
+    
+    - PM thinks on her feet to fight the fires
 </details>
 
 <details>
