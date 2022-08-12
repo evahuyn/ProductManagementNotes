@@ -19,6 +19,8 @@ Refer to this [article](https://www.productplan.com/glossary/hook-model/)
         
       - Internal Triggers
         - Ex: "Feeling bored" -> fire up facebook  and connect with friends
+        - "Bored" -> entertainment, gamification
+        - "Uncertainty, anxiety" -> give them assurance
 
     - <b>Action</b>: Behavior executed in anticipation of the reward.
       - Eliminate as many steps as possible from process
